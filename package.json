@@ -1,0 +1,26 @@
+{
+  "name": "poc",
+  "version": "0.0.1",
+  "description": "Prove of concept",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "keywords": [
+    "Rollup",
+    "+",
+    "typescript",
+    "+",
+    "Dreamfactory"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^11.1.0",
+    "globby": "^13.1.4",
+    "rollup": "^3.20.2",
+    "tslib": "^2.5.0",
+    "typescipt": "^1.0.0"
+  }
+}
